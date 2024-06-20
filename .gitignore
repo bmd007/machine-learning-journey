@@ -246,3 +246,4 @@ libopenal.dylib
 /models/LM_studio/
 /local_data/
 /models/
+*.iml
